@@ -4,8 +4,8 @@ The purpose of this repo to make practice and learn better react and material UI
 
 ## Resources
 
-= **[Here is the video] (https://www.youtube.com/watch?v=KBpoBc98BwM) by [JavaScriptMastery] (https://www.youtube.com/c/JavaScriptMastery)
-= **[Here is the original repo] (https://github.com/adrianhajdin/project_fitness_app) by [Adrian Hajdin - JavaScript Mastery] (https://github.com/adrianhajdin)
+- **[Here is the video] (https://www.youtube.com/watch?v=KBpoBc98BwM) by [JavaScriptMastery] (https://www.youtube.com/c/JavaScriptMastery)**
+- **[Here is the original repo] (https://github.com/adrianhajdin/project_fitness_app) by [Adrian Hajdin - JavaScript Mastery] (https://github.com/adrianhajdin)**
 
 ## About The Project
 
